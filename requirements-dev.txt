@@ -1,0 +1,6 @@
+black
+ruff
+mkdocs
+mypy
+pytest
+pytest-cov
