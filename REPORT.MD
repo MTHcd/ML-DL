@@ -2,3 +2,7 @@
 
 ## Describe how Reinforcement Learning with human feedback operates, particularly in the context of LLMS
 
+-> check for schemas;
+-> describe LLMs;
+-> describe logic of RLHF;
+--> share your front end experience (Outlier experience);
