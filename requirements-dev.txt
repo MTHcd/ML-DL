@@ -4,3 +4,8 @@ mkdocs
 mypy
 pytest
 pytest-cov
+
+pytest==7.1.2
+flake8==4.0.1
+black==22.1.0
+sphinx==5.0.0
