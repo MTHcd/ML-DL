@@ -1,3 +1,7 @@
+# Makefile Commands
+
+This file contains useful commands for managing the development and setup of the project
+
 #  Usefull command
 PROJECT_NAME = project
 
