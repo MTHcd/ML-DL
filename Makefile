@@ -1,20 +1,5 @@
-# Makefile Commands
+install:
+    pip install -r requirements.txt
 
-This file contains useful commands for managing the development and setup of the project
-
-#  Usefull command
-PROJECT_NAME = project
-
-setup-env:
-	conda create -n ${PROJECT_NAME} python=3.8 -y
-	pre-commit install
-
-install-all:
-	pip install -r requirements-dev.txt -r requirements.txt
-
-run-test:
-	python -m pytest test/
-
-format-all:
-	black src/
-	black test/
+run:
+    python src/main.py
