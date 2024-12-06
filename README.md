@@ -8,6 +8,9 @@ Optimize with PPO.
 Generate outputs and validate performance.
 
 ## Methodology
-
+1. Load and preprocess data
+2. Train PPO model with human feedback
+3. Fine-tune the transformer model
+4. Generate outputs from the trained model
 
 ## Significant findings
